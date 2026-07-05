@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-"""★Nuitka 단일 EXE 빌드 (파이썬→C→기계어 컴파일 = PyInstaller보다 리버싱 훨씬 어려움).
-   자산은 PyInstaller판(build_onefile.py)과 동일. upscalemap(120MB)은 동반폴더(번들 X).
-   실행: py build_nuitka.py   (dist_nuitka/Jw2Launcher_v1.6.1.exe 생성, 10~20분 소요)"""
 import os, sys, subprocess
 
 HERE = os.path.dirname(os.path.abspath(__file__))
