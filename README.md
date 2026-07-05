@@ -1,4 +1,4 @@
-# Jw2Launcher — Jurassic War 2: The Ranker 런처 & 관전 오버레이
+# 🦖 Jw2Launcher — Jurassic War 2: The Ranker 런처 & 관전 오버레이
 
 **쥬라기 워2(더 랭커)** 를 위한 통합 런처입니다. 게임 실행부터 **관전·리플레이 실시간 전술 오버레이**, **리플레이 자동저장·전적 연동**, **자동 업데이트**까지 한 번에 제공합니다.
 
